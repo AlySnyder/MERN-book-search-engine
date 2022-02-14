@@ -57,7 +57,7 @@ Alex Snyder - (Alex Snyder)[https://github.com/AlySnyder]
 
 ## Screenshot
 
-![](public/Alys%20portfolio.png)
+![](https://github.com/AlySnyder/MERN-book-search-engine/blob/main/book%20engine.jpg?raw=true)
 
 
 ## Questions
