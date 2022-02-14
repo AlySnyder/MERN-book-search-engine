@@ -6,8 +6,10 @@ import SearchBooks from './pages/SearchBooks';
 import SavedBooks from './pages/SavedBooks';
 import Navbar from './components/Navbar';
 
+const GQL_PORT = process.env.PORT || 3001
+
 const httpLink = createHttpLink({
-  uri: 'http://localhost:3001/graphql',
+  uri: `http://localhost:${GQL_PORT}/graphql`,
 });
 
 const authLink = setContext((_, { headers }) => {
