@@ -34,7 +34,7 @@ You may also see any lint errors in the console.
 
 Link to deployed app
 
-(Alys Book Search)[https://aly-book-engine-herokuapp.com]
+[Alys Book Search](https://aly-book-engine-herokuapp.com)
 
 
 ## Tests
@@ -52,7 +52,7 @@ If you are interested in contacting me for this project or future work , feel fr
 
 ## Credits 
 
-Alex Snyder - (Alex Snyder)[https://github.com/AlySnyder]
+[Alex Snyder](https://github.com/AlySnyder)
 
 
 ## Screenshot
