@@ -34,7 +34,7 @@ You may also see any lint errors in the console.
 
 Link to deployed app
 
-(Alys Book Search)[https://alysnyder.github.io/my-REACT-portfolio/]
+(Alys Book Search)[https://aly-book-engine-heroku-app.com]
 
 
 ## Tests
